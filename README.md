@@ -1,7 +1,6 @@
-# 📊 Dashboard de Inconsistência por HUB
+# 📊 Dashboard de Taxa de inconsistência (%) por HUB
 
-Projeto de análise de dados focado no monitoramento de inconsistências operacionais por HUB logístico.
-
+Este projeto apresenta um dashboard desenvolvido para monitorar inconsistências operacionais em hubs logísticos, permitindo análise rápida e tomada de decisão baseada em dados.
 ---
 
 ## 🎯 Objetivo
@@ -26,7 +25,14 @@ Desenvolvimento de um dashboard com:
 - Destaque visual de hubs problemáticos  
 - Linha de meta operacional (15%)  
 
----
+### 🚀 Diferenciais
+
+- Aplicação de regra de negócio para classificação automática (Controlado, Atenção, Crítico)  
+- Uso de linha de meta para análise de desempenho  
+- Visualização orientada à priorização operacional  
+- Estrutura separando camada de dados e visualização
+
+  ---
 
 ## ⚙️ Ferramentas utilizadas
 
@@ -70,6 +76,10 @@ Desenvolvimento de um dashboard com:
 
 ---
 
-## 🔗 Acesse o dashboard
+## 🔗 [Acesse o dashboard](https://lookerstudio.google.com/reporting/dd9112fd-5685-4aa2-9576-91905b5ba519)
 
-((https://lookerstudio.google.com/reporting/dd9112fd-5685-4aa2-9576-91905b5ba519))
+---
+
+## 💬 Conclusão
+
+O projeto demonstra a capacidade de transformar dados operacionais em insights acionáveis, utilizando ferramentas acessíveis para construção de dashboards eficientes.
